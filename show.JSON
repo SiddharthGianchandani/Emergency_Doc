@@ -1,0 +1,58 @@
+{
+"paracetamol":{ 	
+				"treats":"\n\tcold,headache,muscle pain and cold",
+				"warning":"\n\tpregnant women and heart patients must stay vary of this medicine",
+				"side-effects":"\n\trash, itching/swelling (especially of the face/tongue/throat),\n\tsevere dizziness,\n\ttrouble breathing",
+				"for":"over 12 years",
+				"rating":0
+				},
+"amoxicillin":{ 
+				"treats":"\n\tbacterial infection",
+				"warning":"\n\tYou should not use amoxicillin if you are allergic to any penicillin antibiotic such as ampicillin, dicloxacillin, oxacillin, penicillin, or ticarcillin.To make sure this medicine is safe for you, tell your doctor if you have kidney disease",
+				"side-effects":"\n\tAbdominal or stomach cramps or tenderness \n\tback, leg, chest or stomach pains\n\tblack, tarry stools\n\tbleeding nose,gums or urine\n\tnausea\n\tbloating\n\tcough\n\tdifficulty with breathing\n\tdifficulty with swallowing\n\tfast heartbeat\n\tfeeling of discomfort\n\tfever\n\tgeneral body swelling\n\theadache\n\theavier menstrual periods\n\tpale skin\n\tpinpoint red spots on the skin\n\tpuffiness or swelling of the eyelids or around the eyes, face, lips, or tongue\n\trash\n\tred, irritated eyes\n\tredness, soreness, or itching skin\n\tsores, welting, or blisters\n\tsudden decrease in the amount of urine\n\tunusual bleeding or bruising, tiredness, weakness or weight loss\n\tvomiting of blood and yellow eyes or skin",
+				"for":"over 3 months and weighing over 40 kg",
+				"rating":0
+			},
+"cyclopam":{
+			"treats":"\n\tirritable bowel syndrome, period pain, pain in stomach, fever, headache\n\tcold, toothache, joint pain and abdominal pain",
+			"warning":"\n\tRenal ailment patients, heart patients must stay vary of this medicine",
+			"side-effects":"\n\tNausea, lightheadedness, fatigue, weakness and nervousness",
+			"for":"over 6 months",
+			"rating":0
+			},
+"adderall":{
+			"treats":"\n\tADHD",
+			"warning":"\n\tNot for you if you have high blood pressure, heart disease, an overactive thyroid, glaucoma,or are allergic to medication",
+			"side-effects":"\n\tLoss of appetite, nervousness,trouble sleeping,\n\tweight loss, dry mouth, stomach upset/pain,\n\tvomiting, dizziness, headache, diarrhea and fever",
+			"for":"over 3 years",
+			"rating":0
+			},
+"xanax":{
+			"treats":"\n\tanxiety disorder, panic disorder",
+			"warning":"\n\tYou should not use Xanax if you have narrow-angle glaucoma, \n\tif you also take itraconazole or ketoconazole, or if you are allergic to Xanax or similar medicines, such as \n\tchlordiazepoxide (Librium), clonazepam (Klonopin), clorazepate (Tranxene), diazepam (Valium), lorazepam (Ativan), or oxazepam (Serax).\n\tDo not use Xanax if you are pregnant.\n\tThis medicine can cause birth defects or life-threatening withdrawal symptoms in a newborn.Alprazolam may be habit-forming. Misuse of habit-forming medicine can cause addiction, overdose, or death.\n\tDo not drink alcohol while taking Xanax",
+			"side-effects":"\n\tsigns of an allergic reaction to Xanax: \n\t\thives\n\t\tdifficult breathing\n\t\tswelling of your face, lips, tongue, or throat\n\t\tdepressed mood, thoughts of suicide or hurting yourself\n\t\tracing thoughts, increased energy, unusual risk-taking behavior;\n\t\tconfusion, agitation, hostility, hallucinations;\n\t\tuncontrolled muscle movements, tremor, seizure (convulsions); or\n\t\tpounding heartbeats or fluttering in your chest.\n\t\tdrowsiness, feeling tired;\n\t\tslurred speech, lack of balance or coordination;\n\t\tmemory problems; or\n\t\tfeeling anxious early in the morning.",
+			"for":"over 18 years",
+			"rating":0
+			},
+"azithromycin":{
+			"treats":"\n\trespiratory infections,skin infections,ear infections,STDs(extreme)",
+			"warning":"\n\tYou should not use azithromycin if you have ever had jaundice or liver problems when you have previously taken this medicine or if you are allergic to similar drugs such as clarithromycin, erythromycin, or telithromycin.\n\tTell your doctor if you are pregnant or plan to become pregnant.\n\tIt is not known whether azithromycin passes into breast milk or if it could harm a nursing baby. Tell your doctor if you are breast-feeding a baby.\n\tTo make sure azithromycin is safe for you, tell your doctor if you have ever had:liver disease;kidney disease;myasthenia gravis;a heart rhythm disorder;low levels of potassium in your blood; orlong QT syndrome (in you or a family member).",
+			"side-effects":"\n\t(hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, \n\tburning in your eyes, skin pain,\n\tred or purple skin rash that spreads and causes blistering and peeling).\n\tSeek medical treatment if you have a serious drug reaction that can affect many parts of your body. \n\tSymptoms may include: \n\t\tskin rash, \n\t\tfever, \n\t\tswollen glands,\n\t\tflu-like symptoms, \n\t\tmuscle aches, \n\t\tsevere weakness, \n\t\tunusual bruising, or \n\t\tyellowing of your skin or eyes. \n\tThis reaction may occur several weeks after you began using azithromycin.\n\tCall your doctor at once if you have:\n\t\tsevere stomach pain, \n\t\tdiarrhea that is watery or bloody,\n\t\tfast or pounding heartbeats,\n\t\tfluttering in your chest, \n\t\tshortness of breath, and \n\t\tsudden dizziness (like you might pass out) or \n\t\tliver problems - nausea, upper stomach pain, itching, tired feeling, \n\t\tloss of appetite, \n\t\tdark urine,\n\t\tclay-colored stools, \n\t\tjaundice (yellowing of the skin or eyes).\n\t\tdiarrhea;nausea, \n\t\tvomiting, \n\t\tstomach pain or\n\t\theadache.",
+			"for":"over 6 months",
+			"rating":0
+			},
+"tetracycline":{
+			"treats":"\n\tinfections, acne, syphilis, gonorrhea, chlamydia",
+			"warning":"\n\tUsing tetracycline during pregnancy could harm the unborn baby or cause permanent tooth discoloration later in the baby's life.\n\tDo not take this medication without telling your doctor if you are breast-feeding a baby.\n\tTetracycline can make your skin more sensitive to sunlight and sunburn may result. \n\tTo make sure tetracycline is safe for you, tell your doctor if you have: liver disease; or kidney disease.",
+			"side-effects":"\n\tsigns of an allergic reaction to tetracycline: \n\t\thives\n\t\tdifficult breathing\n\t\tswelling of your face, lips, tongue, or throat.\n\tCall your doctor at once if you have:\n\t\tsevere blistering, and red skin rash\n\t\tfever\n\t\tchills\n\t\tbody aches\n\t\tflu symptoms\n\t\tpale or yellowed skin\n\t\teasy bruising or bleeding\n\t\tany signs of a new infection.\n\tCommon tetracycline side effects may include:\n\t\tnausea, \n\t\tvomiting, \n\t\tdiarrhea, \n\t\tupset stomach, \n\t\tloss of appetite\n\t\twhite patches or sores inside your mouth or on your lips\n\t\tswollen tongue\n\t\tblack or hairy tongue\n\t\ttrouble swallowing\n\t\tsores or swelling in your rectal or genital area\n\t\tor vaginal itching or discharge.",
+			"for":"over 8 years",
+			"rating":0
+			},
+"vyvanse":{
+			"treats":"\n\tanxiety disorder, panic disorder",
+			"warning":"\n\tVyvanse may be habit-forming, and this medicine is ,a drug of abuse. Tell your doctor if you have had problems with drug or alcohol abuse\n\tStimulants have caused stroke, heart attack, and sudden death in people with high blood pressure, heart disease, or a heart defect.\n\tTo make sure this medicine is safe for you, tell your doctor if you or anyone in your family has ever had: depression, mental illness, bipolar disorder, psychosis, or suicidal thoughts or actions;kidney disease;coronary artery disease (clogged arteries);blood circulation problems in the hands or feet; or drug or alcohol addiction.",
+			"side-effects":"\n\tif you have signs of an allergic reaction to Vyvanse: \n\t\thives \n\t\tdifficult breathing \n\t\tswelling of your face, lips, tongue, or throat.\n\tCall your doctor at once if you have:\n\t\tsigns of heart problems - chest pain, trouble breathing, pounding heartbeats or fluttering in your chest, feeling like you might pass out\n\t\tsigns of psychosis - hallucinations, \n\t\tnew behavior problems, \n\t\taggression, \n\t\thostility, \n\t\tparanoia; or\n\tsigns of circulation problems - \n\t\tnumbness, \n\t\tpain, \n\t\tcold feeling, u\n\t\tnexplained wounds, or \n\t\tskin color changes in your fingers or toes.\n\tSeek medical attention right away if you have symptoms of serotonin syndrome such as: \n\t\tagitation, \n\t\thallucinations, \n\t\tfever, \n\t\tsweating, \n\t\tshivering, \n\t\tfast heart rate, \n\t\tmuscle stiffness, \n\t\ttwitching, \n\t\tloss of coordination, \n\t\tnausea, \n\t\tvomiting, or diarrhea.\n\tVyvanse can affect growth in children. \n\tTell your doctor if your child is not growing at a normal rate while using this medicine.\n\tCommon Vyvanse side effects may include:\n\t\tdry mouth, \n\t\tloss of appetite, \n\t\tweight loss\n\t\tsleep problems (insomnia)\n\t\tfast heart rate, \n\t\tfeeling jittery;dizziness, \n\t\tfeeling anxious or irritable; or nausea, vomiting, stomach pain, diarrhea, constipation.",
+			"for":"over 6 years",
+			"rating":0
+			}
+}

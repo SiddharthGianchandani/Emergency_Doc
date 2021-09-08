@@ -1,0 +1,404 @@
+child,male,mild,fever,paracetamol
+child,male,mild,cold,paracetamol
+child,male,mild,headache,paracetamol
+adult1,male,mild,fever,paracetamol
+adult1,male,mild,cold,paracetamol
+adult1,male,mild,headache,paracetamol
+adult2,male,mild,headache,paracetamol
+adult2,male,mild,fever,paracetamol
+adult2,male,mild,cold,paracetamol
+adult3,male,mild,cold,paracetamol
+adult3,male,mild,fever,paracetamol
+adult3,male,mild,headache,paracetamol
+adult4,male,mild,fever,paracetamol
+adult4,male,mild,headache,paracetamol
+adult4,male,mild,cold,paracetamol
+senior citizen,male,mild,fever,paracetamol
+senior citizen,male,mild,headache,paracetamol
+senior citizen,male,mild,cold,paracetamol
+child,female,mild,fever,paracetamol
+child,female,mild,cold,paracetamol
+child,female,mild,headache,paracetamol
+adult1,female,mild,cold,paracetamol
+adult1,female,mild,headache,paracetamol
+adult1,female,mild,fever,paracetamol
+adult2,female,mild,fever,paracetamol
+adult2,female,mild,cold,paracetamol
+adult2,female,mild,headache,paracetamol
+adult3,female,mild,fever,paracetamol
+adult3,female,mild,headache,paracetamol
+adult3,female,mild,cold,paracetamol
+adult4,female,mild,cold,paracetamol
+adult4,female,mild,headache,paracetamol
+adult4,female,mild,fever,paracetamol
+senior citizen,female,mild,cold,paracetamol
+senior citizen,female,mild,headache,paracetamol
+senior citizen,female,mild,fever,paracetamol
+toddler,male,extreme,cold,amoxicillin
+toddler,male,extreme,infection,amoxicillin
+child,male,extreme,cold,amoxicillin
+child,male,extreme,infection,amoxicillin
+adult1,male,extreme,cold,amoxicillin
+adult1,male,extreme,infection,amoxicillin
+adult2,male,extreme,cold,amoxicillin
+adult2,male,extreme,infection,amoxicillin
+adult3,male,extreme,cold,amoxicillin
+adult3,male,extreme,infection,amoxicillin
+adult4,male,extreme,cold,amoxicillin
+adult4,male,extreme,infection,amoxicillin
+senior citizen,male,extreme,infection,amoxicillin
+senior citizen,male,extreme,cold,amoxicillin
+toddler,female,extreme,cold,amoxicillin
+toddler,female,extreme,infection,amoxicillin
+child,female,extreme,cold,amoxicillin
+child,female,extreme,infection,amoxicillin
+adult1,female,extreme,cold,amoxicillin
+adult1,female,extreme,infection,amoxicillin
+adult2,female,extreme,cold,amoxicillin
+adult2,female,extreme,infection,amoxicillin
+adult3,female,extreme,cold,amoxicillin
+adult3,female,extreme,infection,amoxicillin
+adult4,female,extreme,cold,amoxicillin
+adult4,female,extreme,infection,amoxicillin
+senior citizen,female,extreme,infection,amoxicillin
+senior citizen,female,extreme,cold,amoxicillin
+child,male,moderate,cold,cyclopam
+child,male,moderate,headache,cyclopam
+child,male,extreme,headache,cyclopam
+adult1,male,moderate,cold,cyclopam
+adult1,male,moderate,headache,cyclopam
+adult1,male,extreme,headache,cyclopam
+adult2,male,moderate,cold,cyclopam
+adult2,male,moderate,headache,cyclopam
+adult2,male,extreme,headache,cyclopam
+adult3,male,moderate,cold,cyclopam
+adult3,male,moderate,headache,cyclopam
+adult3,male,extreme,headache,cyclopam
+adult4,male,moderate,cold,cyclopam
+adult4,male,moderate,headache,cyclopam
+adult4,male,extreme,headache,cyclopam
+senior citizen,male,moderate,cold,cyclopam
+senior citizen,male,moderate,headache,cyclopam
+senior citizen,male,extreme,headache,cyclopam
+senior citizen,male,moderate,joint pain,cyclopam
+senior citizen,male,moderate,irritable bowel syndrome,cyclopam
+senior citizen,male,mild,irritable bowel syndrome,cyclopam
+senior citizen,male,extreme,irritable bowel syndrome,cyclopam
+child,female,moderate,cold,cyclopam
+child,female,moderate,headache,cyclopam
+child,female,extreme,headache,cyclopam
+child,female,extreme,period pain,cyclopam
+child,female,moderate,period pain,cyclopam
+child,female,extreme,headache,cyclopam
+adult1,female,extreme,period pain,cyclopam
+adult1,female,moderate,period pain,cyclopam
+adult1,female,mild,period pain,cyclopam
+adult1,female,moderate,cold,cyclopam
+adult1,female,moderate,headache,cyclopam
+adult1,female,extreme,headache,cyclopam
+adult2,female,moderate,period pain,cyclopam
+adult2,female,extreme,period pain,cyclopam
+adult2,female,mild,period pain,cyclopam
+adult2,female,moderate,cold,cyclopam
+adult2,female,moderate,headache,cyclopam
+adult2,female,extreme,headache,cyclopam
+adult3,female,moderate,period pain,cyclopam
+adult3,female,extreme,period pain,cyclopam
+adult3,female,mild,period pain,cyclopam
+adult3,female,moderate,cold,cyclopam
+adult3,female,moderate,headache,cyclopam
+adult3,female,extreme,headache,cyclopam
+adult4,female,moderate,cold,cyclopam
+adult4,female,moderate,headache,cyclopam
+adult4,female,extreme,headache,cyclopam
+adult4,female,extreme,period pain,cyclopam
+adult4,female,mild,period pain,cyclopam
+adult4,female,moderate,period pain,cyclopam
+senior citizen,female,moderate,cold,cyclopam
+senior citizen,female,moderate,headache,cyclopam
+senior citizen,female,extreme,headache,cyclopam
+senior citizen,female,moderate,joint pain,cyclopam
+senior citizen,female,moderate,irritable bowel syndrome,cyclopam
+senior citizen,female,mild,irritable bowel syndrome,cyclopam
+senior citizen,female,extreme,irritable bowel syndrome,cyclopam
+toddler,male,extreme,ADHD,adderall
+toddler,male,mild,ADHD,adderall
+toddler,male,moderate,ADHD,adderall
+child,male,extreme,ADHD,adderall
+child,male,moderate,ADHD,adderall
+child,male,mild,ADHD,adderall
+adult1,male,extreme,ADHD,adderall
+adult1,male,mild,ADHD,adderall
+adult1,male,moderate,ADHD,adderall
+adult2,male,mild,ADHD,adderall
+adult2,male,extreme,ADHD,adderall
+adult2,male,moderate,ADHD,adderall
+adult3,male,extreme,ADHD,adderall
+adult3,male,mild,ADHD,adderall
+adult3,male,moderate,ADHD,adderall
+adult4,male,extreme,ADHD,adderall
+adult4,male,mild,ADHD,adderall
+adult4,male,moderate,ADHD,adderall
+senior citizen,male,extreme,ADHD,adderall
+senior citizen,male,mild,ADHD,adderall
+senior citizen,male,moderate,ADHD,adderall
+toddler,female,extreme,ADHD,adderall
+toddler,female,mild,ADHD,adderall
+toddler,female,moderate,ADHD,adderall
+child,female,mild,ADHD,adderall
+child,female,moderate,ADHD,adderall
+child,female,extreme,ADHD,adderall
+adult1,female,mild,ADHD,adderall
+adult1,female,moderate,ADHD,adderall
+adult1,female,extreme,ADHD,adderall
+adult2,female,mild,ADHD,adderall
+adult2,female,extreme,ADHD,adderall
+adult2,female,moderate,ADHD,adderall
+adult3,female,mild,ADHD,adderall
+adult3,female,moderate,ADHD,adderall
+adult3,female,extreme,ADHD,adderall
+adult4,female,mild,ADHD,adderall
+adult4,female,moderate,ADHD,adderall
+adult4,female,extreme,ADHD,adderall
+senior citizen,female,mild,ADHD,adderall
+senior citizen,female,moderate,ADHD,adderall
+senior citizen,female,extreme,ADHD,adderall
+child,male,extreme,ADHD,vyvanse
+child,male,moderate,ADHD,vyvanse
+child,male,mild,ADHD,vyvanse
+adult1,male,extreme,ADHD,vyvanse
+adult1,male,mild,ADHD,vyvanse
+adult1,male,moderate,ADHD,vyvanse
+adult2,male,mild,ADHD,vyvanse
+adult2,male,extreme,ADHD,vyvanse
+adult2,male,moderate,ADHD,vyvanse
+adult3,male,extreme,ADHD,vyvanse
+adult3,male,mild,ADHD,vyvanse
+adult3,male,moderate,ADHD,vyvanse
+adult4,male,extreme,ADHD,vyvanse
+adult4,male,mild,ADHD,vyvanse
+adult4,male,moderate,ADHD,vyvanse
+senior citizen,male,extreme,ADHD,vyvanse
+senior citizen,male,mild,ADHD,vyvanse
+senior citizen,male,moderate,ADHD,vyvanse
+child,female,mild,ADHD,vyvanse
+child,female,moderate,ADHD,vyvanse
+child,female,extreme,ADHD,vyvanse
+adult1,female,mild,ADHD,vyvanse
+adult1,female,moderate,ADHD,vyvanse
+adult1,female,extreme,ADHD,vyvanse
+adult2,female,mild,ADHD,vyvanse
+adult2,female,extreme,ADHD,vyvanse
+adult2,female,moderate,ADHD,vyvanse
+adult3,female,mild,ADHD,vyvanse
+adult3,female,moderate,ADHD,vyvanse
+adult3,female,extreme,ADHD,vyvanse
+adult4,female,mild,ADHD,vyvanse
+adult4,female,moderate,ADHD,vyvanse
+adult4,female,extreme,ADHD,vyvanse
+senior citizen,female,mild,ADHD,vyvanse
+senior citizen,female,moderate,ADHD,vyvanse
+senior citizen,female,extreme,ADHD,vyvanse
+adult1,male,extreme,binge eating disorder,vyvanse
+adult1,male,moderate,binge eating disorder,vyvanse
+adult2,male,extreme,binge eating disorder,vyvanse
+adult2,male,moderate,binge eating disorder,vyvanse
+adult3,male,extreme,binge eating disorder,vyvanse
+adult3,male,moderate,binge eating disorder,vyvanse
+adult4,male,extreme,binge eating disorder,vyvanse
+adult4,male,moderate,binge eating disorder,vyvanse
+senior citizen,male,extreme,binge eating disorder,vyvanse
+senior citizen,male,moderate,binge eating disorder,vyvanse
+adult1,female,moderate,binge eating disorder,vyvanse
+adult1,female,extreme,binge eating disorder,vyvanse
+adult2,female,extreme,binge eating disorder,vyvanse
+adult2,female,moderate,binge eating disorder,vyvanse
+adult3,female,moderate,binge eating disorder,vyvanse
+adult3,female,extreme,binge eating disorder,vyvanse
+adult4,female,moderate,binge eating disorder,vyvanse
+adult4,female,extreme,binge eating disorder,vyvanse
+senior citizen,female,moderate,binge eating disorder,vyvanse
+senior citizen,female,extreme,binge eating disorder,vyvanse
+adult1,male,mild,anxiety disorder,xanax
+adult1,male,moderate,anxiety disorder,xanax
+adult2,male,mild,anxiety disorder,xanax
+adult2,male,moderate,anxiety disorder,xanax
+adult3,male,mild,anxiety disorder,xanax
+adult3,male,moderate,anxiety disorder,xanax
+adult4,male,mild,anxiety disorder,xanax
+adult4,male,moderate,anxiety disorder,xanax
+senior citizen,male,mild,anxiety disorder,xanax
+senior citizen,male,moderate,anxiety disorder,xanax
+adult1,female,mild,anxiety disorder,xanax
+adult1,female,moderate,anxiety disorder,xanax
+adult2,female,mild,anxiety disorder,xanax
+adult2,female,moderate,anxiety disorder,xanax
+adult3,female,mild,anxiety disorder,xanax
+adult3,female,moderate,anxiety disorder,xanax
+adult4,female,mild,anxiety disorder,xanax
+adult4,female,moderate,anxiety disorder,xanax
+senior citizen,female,mild,anxiety disorder,xanax
+senior citizen,female,moderate,anxiety disorder,xanax
+adult1,male,mild,panic disorder,xanax
+adult1,male,moderate,panic disorder,xanax
+adult2,male,mild,panic disorder,xanax
+adult2,male,moderate,panic disorder,xanax
+adult3,male,mild,panic disorder,xanax
+adult3,male,moderate,panic disorder,xanax
+adult4,male,mild,panic disorder,xanax
+adult4,male,moderate,panic disorder,xanax
+senior citizen,male,mild,panic disorder,xanax
+senior citizen,male,moderate,panic disorder,xanax
+adult1,female,mild,panic disorder,xanax
+adult1,female,moderate,panic disorder,xanax
+adult2,female,mild,panic disorder,xanax
+adult2,female,moderate,panic disorder,xanax
+adult3,female,mild,panic disorder,xanax
+adult3,female,moderate,panic disorder,xanax
+adult4,female,mild,panic disorder,xanax
+adult4,female,moderate,panic disorder,xanax
+senior citizen,female,mild,panic disorder,xanax
+senior citizen,female,moderate,panic disorder,xanax
+child,male,extreme,infection,azithromycin
+adult1,male,extreme,infection,azithromycin
+adult2,male,extreme,infection,azithromycin
+adult3,male,extreme,infection,azithromycin
+adult4,male,extreme,infection,azithromycin
+senior citizen,male,extreme,infection,azithromycin
+toddler,female,extreme,infection,azithromycin
+child,female,extreme,infection,azithromycin
+adult1,female,extreme,infection,azithromycin
+adult2,female,extreme,infection,azithromycin
+adult3,female,extreme,infection,azithromycin
+adult4,female,extreme,infection,azithromycin
+senior citizen,female,extreme,infection,azithromycin
+adult1,male,extreme,urethritis,azithromycin
+adult2,male,extreme,urethritis,azithromycin
+adult3,male,extreme,urethritis,azithromycin
+adult4,male,extreme,urethritis,azithromycin
+senior citizen,male,extreme,urethritis,azithromycin
+adult1,female,extreme,cervicitis,azithromycin
+adult2,female,extreme,cervicitis,azithromycin
+adult3,female,extreme,cervicitis,azithromycin
+adult4,female,extreme,cervicitis,azithromycin
+senior citizen,female,extreme,cervicitis,azithromycin
+child,male,moderate,infection,tetracycline
+child,male,mild,infection,tetracycline
+adult1,male,mild,infection,tetracycline
+adult1,male,moderate,infection,tetracycline
+adult2,male,mild,infection,tetracycline
+adult2,male,moderate,infection,tetracycline
+adult3,male,mild,infection,tetracycline
+adult3,male,moderate,infection,tetracycline
+adult4,male,moderate,infection,tetracycline
+adult4,male,mild,infection,tetracycline
+senior citizen,male,mild,infection,tetracycline
+senior citizen,male,moderate,infection,tetracycline
+child,female,mild,infection,tetracycline
+child,female,moderate,infection,tetracycline
+adult1,female,mild,infection,tetracycline
+adult1,female,moderate,infection,tetracycline
+adult2,female,mild,infection,tetracycline
+adult2,female,moderate,infection,tetracycline
+adult3,female,mild,infection,tetracycline
+adult3,female,moderate,infection,tetracycline
+adult4,female,mild,infection,tetracycline
+adult4,female,moderate,infection,tetracycline
+senior citizen,female,mild,infection,tetracycline
+senior citizen,female,moderate,infection,tetracycline
+child,male,moderate,acne,tetracycline
+child,male,mild,acne,tetracycline
+adult1,male,mild,acne,tetracycline
+adult1,male,moderate,acne,tetracycline
+adult2,male,mild,acne,tetracycline
+adult2,male,moderate,acne,tetracycline
+adult3,male,mild,acne,tetracycline
+adult3,male,moderate,acne,tetracycline
+adult4,male,mild,acne,tetracycline
+adult4,male,moderate,acne,tetracycline
+senior citizen,male,mild,acne,tetracycline
+senior citizen,male,moderate,acne,tetracycline
+child,female,mild,acne,tetracycline
+child,female,moderate,acne,tetracycline
+adult1,female,mild,acne,tetracycline
+adult1,female,moderate,acne,tetracycline
+adult2,female,mild,acne,tetracycline
+adult2,female,moderate,acne,tetracycline
+adult3,female,mild,acne,tetracycline
+adult3,female,moderate,acne,tetracycline
+adult4,female,mild,acne,tetracycline
+adult4,female,moderate,acne,tetracycline
+senior citizen,female,mild,acne,tetracycline
+senior citizen,female,moderate,acne,tetracycline
+child,male,moderate,syphilis,tetracycline
+child,male,mild,syphilis,tetracycline
+adult1,male,mild,syphilis,tetracycline
+adult1,male,moderate,syphilis,tetracycline
+adult2,male,mild,syphilis,tetracycline
+adult2,male,moderate,syphilis,tetracycline
+adult3,male,mild,syphilis,tetracycline
+adult3,male,moderate,syphilis,tetracycline
+adult4,male,mild,syphilis,tetracycline
+adult4,male,moderate,syphilis,tetracycline
+senior citizen,male,mild,syphilis,tetracycline
+senior citizen,male,moderate,syphilis,tetracycline
+child,female,mild,syphilis,tetracycline
+child,female,moderate,syphilis,tetracycline
+adult1,female,mild,syphilis,tetracycline
+adult1,female,moderate,syphilis,tetracycline
+adult2,female,mild,syphilis,tetracycline
+adult2,female,moderate,syphilis,tetracycline
+adult3,female,mild,syphilis,tetracycline
+adult3,female,moderate,syphilis,tetracycline
+adult4,female,mild,syphilis,tetracycline
+adult4,female,moderate,syphilis,tetracycline
+senior citizen,female,mild,syphilis,tetracycline
+senior citizen,female,moderate,syphilis,tetracycline
+child,male,moderate,gonorrhea,tetracycline
+child,male,mild,gonorrhea,tetracycline
+adult1,male,mild,gonorrhea,tetracycline
+adult1,male,moderate,gonorrhea,tetracycline
+adult2,male,mild,gonorrhea,tetracycline
+adult2,male,moderate,gonorrhea,tetracycline
+adult3,male,mild,gonorrhea,tetracycline
+adult3,male,moderate,gonorrhea,tetracycline
+adult4,male,mild,gonorrhea,tetracycline
+adult4,male,moderate,gonorrhea,tetracycline
+senior citizen,male,mild,gonorrhea,tetracycline
+senior citizen,male,moderate,gonorrhea,tetracycline
+child,female,mild,gonorrhea,tetracycline
+child,female,moderate,gonorrhea,tetracycline
+adult1,female,mild,gonorrhea,tetracycline
+adult1,female,moderate,gonorrhea,tetracycline
+adult2,female,mild,gonorrhea,tetracycline
+adult2,female,moderate,gonorrhea,tetracycline
+adult3,female,mild,gonorrhea,tetracycline
+adult3,female,moderate,gonorrhea,tetracycline
+adult4,female,mild,gonorrhea,tetracycline
+adult4,female,moderate,gonorrhea,tetracycline
+senior citizen,female,mild,gonorrhea,tetracycline
+senior citizen,female,moderate,gonorrhea,tetracycline
+child,male,moderate,chlamydia,tetracycline
+child,male,mild,chlamydia,tetracycline
+adult1,male,mild,chlamydia,tetracycline
+adult1,male,moderate,chlamydia,tetracycline
+adult2,male,mild,chlamydia,tetracycline
+adult2,male,moderate,chlamydia,tetracycline
+adult3,male,mild,chlamydia,tetracycline
+adult3,male,moderate,chlamydia,tetracycline
+adult4,male,mild,chlamydia,tetracycline
+adult4,male,moderate,chlamydia,tetracycline
+senior citizen,male,mild,chlamydia,tetracycline
+senior citizen,male,moderate,chlamydia,tetracycline
+child,female,mild,chlamydia,tetracycline
+child,female,moderate,chlamydia,tetracycline
+adult1,female,mild,chlamydia,tetracycline
+adult1,female,moderate,chlamydia,tetracycline
+adult2,female,mild,chlamydia,tetracycline
+adult2,female,moderate,chlamydia,tetracycline
+adult3,female,mild,chlamydia,tetracycline
+adult3,female,moderate,chlamydia,tetracycline
+adult4,female,mild,chlamydia,tetracycline
+adult4,female,moderate,chlamydia,tetracycline
+senior citizen,female,mild,chlamydia,tetracycline
+senior citizen,female,moderate,chlamydia,tetracycline

@@ -1,0 +1,147 @@
+paracetamol:fever,headache,muscle pain,cold
+	
+	warnings:
+		pregnant women and heart patients must stay vary of this medicine
+	
+	side effects: 
+		rash, itching/swelling (especially of the face/tongue/throat), severe dizziness, trouble breathing.
+	
+	for:over 12 years
+
+amoxicillin:infection,cold(extreme)
+	
+	warnings:
+		You should not use amoxicillin if you are allergic to any penicillin antibiotic such as ampicillin, dicloxacillin, oxacillin, penicillin, or 
+                ticarcillin.To make sure this medicine is safe for you, tell your doctor if you have: kidney disease; mononucleosis (also called "mono")
+	
+	side effects:
+	     Abdominal or stomach cramps or tenderness
+	     back, leg, chest or stomach pains
+	     black, tarry stools
+	     bleeding nose,gums or urine
+	     nausea
+             bloating
+	     cough
+	     difficulty with breathing
+	     difficulty with swallowing
+	     fast heartbeat
+	     feeling of discomfort
+	     fever
+	     general body swelling
+	     headache
+	     heavier menstrual periods
+	     pale skin
+	     pinpoint red spots on the skin
+	     puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+	     rash
+	     red, irritated eyes
+	     redness, soreness, or itching skin
+	     sores, welting, or blisters
+	     sudden decrease in the amount of urine
+	     unusual bleeding or bruising, tiredness, weakness or weight loss
+	     vomiting of blood
+	     yellow eyes or skin
+	
+	for:over 3 months and weighing over 40 kg
+
+
+cyclopam: treatment of irritable bowel syndrome
+ 	  period pain 
+	  pain in stomach
+          fever
+          headache
+          cold
+          toothache
+          joint pain
+	
+	warnings:
+		Renal ailment patients, heart patients must stay vary of this medicine
+	
+	side effects:
+		Nausea, lightheadedness, Fatigue, Weakness, nervousness
+	
+	for:over 6 months
+
+adderall: ADHD
+	
+	warnings:
+		Not for you if you have high blood pressure, heart disease, an overactive thyroid, glaucoma,or are allergic to medication.
+	
+	side effects:
+		Loss of appetite, nervousness,trouble sleeping,
+	        weight loss, dry mouth, stomach upset/pain,
+		vomiting, dizziness, headache, diarrhea, fever
+	
+	for: over 3 years
+
+Xanax: anxiety disorder,panic disorder
+
+	warnings:
+		You should not use Xanax if you have narrow-angle glaucoma, if you also take itraconazole or ketoconazole, or if you are allergic to Xanax or similar medicines, such as chlordiazepoxide (Librium), clonazepam (Klonopin), clorazepate (Tranxene), diazepam (Valium), lorazepam (Ativan), or oxazepam (Serax).
+		Do not use Xanax if you are pregnant. This medicine can cause birth defects or life-threatening withdrawal symptoms in a newborn.
+		Alprazolam may be habit-forming. Misuse of habit-forming medicine can cause addiction, overdose, or death.
+		Do not drink alcohol while taking Xanax
+
+	side effects:
+		signs of an allergic reaction to Xanax: hives; difficult breathing; swelling of your face, lips, tongue, or throat
+		depressed mood, thoughts of suicide or hurting yourself;
+		racing thoughts, increased energy, unusual risk-taking behavior;
+		confusion, agitation, hostility, hallucinations;
+		uncontrolled muscle movements, tremor, seizure (convulsions); or
+		pounding heartbeats or fluttering in your chest.
+		drowsiness, feeling tired;
+		slurred speech, lack of balance or coordination;
+		memory problems; or
+		feeling anxious early in the morning.
+
+	for: over 18 years
+
+Azithromycin: respiratory infections,skin infections,ear infections,STDs(extreme)
+	
+	warnings:
+		You should not use azithromycin if you have ever had jaundice or liver problems when you have previously taken this medicine or if you are allergic to similar drugs such as clarithromycin, erythromycin, or telithromycin.
+		Tell your doctor if you are pregnant or plan to become pregnant.
+		It is not known whether azithromycin passes into breast milk or if it could harm a nursing baby. Tell your doctor if you are breast-feeding a baby.
+		To make sure azithromycin is safe for you, tell your doctor if you have ever had:liver disease;kidney disease;myasthenia gravis;a heart rhythm disorder;low levels of potassium in your blood; orlong QT syndrome (in you or a family member).
+
+	side effects:
+		(hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning in your eyes, skin pain, red or purple skin rash that spreads and causes blistering and peeling).
+		Seek medical treatment if you have a serious drug reaction that can affect many parts of your body. Symptoms may include: skin rash, fever, swollen glands, flu-like symptoms, muscle aches, severe weakness, unusual bruising, or yellowing of your skin or eyes. This reaction may occur several weeks after you began using azithromycin.
+		Call your doctor at once if you have:severe stomach pain, diarrhea that is watery or bloody;fast or pounding heartbeats, fluttering in your chest, shortness of breath, and sudden dizziness (like you might pass out); or liver problems - nausea, upper stomach pain, itching, tired feeling, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).
+		diarrhea;nausea, vomiting, stomach pain; or headache.
+
+	for: over 6 months
+
+Tetracycline: infections, acne, syphilis, gonorrhea, chlamydia.
+
+	warnings:
+		Using tetracycline during pregnancy could harm the unborn baby or cause permanent tooth discoloration later in the baby's life.
+		Do not take this medication without telling your doctor if you are breast-feeding a baby.
+		Tetracycline can make your skin more sensitive to sunlight and sunburn may result. 
+		To make sure tetracycline is safe for you, tell your doctor if you have: liver disease; or kidney disease.
+
+	side effects:
+		signs of an allergic reaction to tetracycline: hives; difficult breathing; swelling of your face, lips, tongue, or throat.
+		Call your doctor at once if you have:severe blistering, peeling, and red skin rash; fever, chills, body aches, flu symptoms;pale or yellowed skin, easy bruising or bleeding;any signs of a new infection.
+		Common tetracycline side effects may include:nausea, vomiting, diarrhea, upset stomach, loss of appetite;white patches or sores inside your mouth or on your lips;swollen tongue, black or "hairy" tongue, trouble swallowing; sores or swelling in your rectal or genital area; or vaginal itching or discharge.
+
+	for: over 8 years
+
+Vyvanse: binge eating disorder(moderate and extreme only in adults),ADHD
+
+	warnings:
+		Vyvanse may be habit-forming, and this medicine is a drug of abuse. Tell your doctor if you have had problems with drug or alcohol abuse.
+		Stimulants have caused stroke, heart attack, and sudden death in people with high blood pressure, heart disease, or a heart defect.
+		To make sure this medicine is safe for you, tell your doctor if you or anyone in your family has ever had: depression, mental illness, bipolar disorder, psychosis, or suicidal thoughts or actions;kidney disease;coronary artery disease (clogged arteries);blood circulation problems in the hands or feet; or drug or alcohol addiction.
+
+	side effects:
+		if you have signs of an allergic reaction to Vyvanse: hives; difficult breathing; swelling of your face, lips, tongue, or throat.
+		Call your doctor at once if you have:
+			signs of heart problems - chest pain, trouble breathing, pounding heartbeats or fluttering in your chest, feeling like you might pass out;
+			signs of psychosis - hallucinations (seeing or hearing things that are not real), new behavior problems, aggression, hostility, paranoia; or
+			signs of circulation problems - numbness, pain, cold feeling, unexplained wounds, or skin color changes (pale, red, or blue appearance) in your fingers or toes.
+			Seek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.
+			Vyvanse can affect growth in children. Tell your doctor if your child is not growing at a normal rate while using this medicine.
+		Common Vyvanse side effects may include:dry mouth, loss of appetite, weight loss;sleep problems (insomnia);fast heart rate, feeling jittery;dizziness, feeling anxious or irritable; or nausea, vomiting, stomach pain, diarrhea, constipation.
+
+	for: over 6 years

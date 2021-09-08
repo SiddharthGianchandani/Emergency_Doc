@@ -1,0 +1,30 @@
+{
+"paracetamol":{ 	
+				"treats":"cold,headache,muscle pain and cold",
+				"warning":"pregnant women and heart patients must stay vary of this medicine",
+				"side":"rash, itching/swelling (especially of the face/tongue/throat), severe dizziness, trouble breathing",
+				"for":"over 12 years",
+				"rating":0
+				},
+"amoxicillin":{ 
+				"treats":"bacterial infection",
+				"warning":"You should not use amoxicillin if you are allergic to any penicillin antibiotic such as ampicillin, dicloxacillin, oxacillin, penicillin, or ticarcillin.To make sure this medicine is safe for you, tell your doctor if you have kidney disease",
+				"side":"Abdominal or stomach cramps or tenderness \nback, leg, chest or stomach pains\nblack, tarry stools\nbleeding nose,gums or urine\nnausea\nbloating\ncough\ndifficulty with breathing\ndifficulty with swallowing\nfast heartbeat\nfeeling of discomfort\nfever\ngeneral body swelling\nheadache\nheavier menstrual periods\npale skin\npinpoint red spots on the skin\npuffiness or swelling of the eyelids or around the eyes, face, lips, or tongue\nrash\nred, irritated eyes\nredness, soreness, or itching skin\nsores, welting, or blisters\nsudden decrease in the amount of urine\nunusual bleeding or bruising, tiredness, weakness or weight loss\nvomiting of blood and yellow eyes or skin",
+				"for":"over 3 months and weighing over 40 kg",
+				"rating":0
+			},
+"cyclopam":{
+			"treats":"irritable bowel syndrome, period pain, pain in stomach, fever, headache\ncold, toothache, joint pain and abdominal pain",
+			"warning":"Renal ailment patients, heart patients must stay vary of this medicine",
+			"side":"Nausea, lightheadedness, fatigue, weakness and nervousness",
+			"for":"over 6 months",
+			"rating":0
+			},
+"adderall":{
+			"treats":"ADHD",
+			"warning":"Not for you if you have high blood pressure, heart disease, an overactive thyroid, glaucoma,or are allergic to medication",
+			"side":"Loss of appetite, nervousness,trouble sleeping,\nweight loss, dry mouth, stomach upset/pain,\nvomiting, dizziness, headache, diarrhea and fever",
+			"for":"over 3 years",
+			"rating":0
+			}
+}
